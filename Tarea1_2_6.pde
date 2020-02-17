@@ -1,0 +1,11 @@
+size(400,400);
+fill(#00FFAC);
+rect(0,0,400,400);
+fill(#8B00FF);
+ellipseMode(CENTER);
+ellipse(100,70,100,100);
+ellipse(300,330,100,100);
+ellipse(300,70,100,100);
+ellipse(100,330,100,100);
+ellipse(100,200,100,100);
+ellipse(300,200,100,100);
